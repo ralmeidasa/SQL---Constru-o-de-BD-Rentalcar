@@ -1,0 +1,1 @@
+Link para o guia de sintaxe básica do formato markdown - https://www.markdownguide.org/basic-syntax/
