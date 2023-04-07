@@ -1,2 +1,3 @@
 # desafio-github-primeiro-repositorio
-Desafio de Projeto Git/GitHub
+Exemplo de construção de banco de dados para uma locadora de carros, além de queries para consulta de dados e edição de dados/tabela. 
+
