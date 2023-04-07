@@ -1,0 +1,7 @@
+SELECT START_DATE,
+       END_DATE,
+       MAX(TOTAL),
+       CUSTOMER_ID,
+       CAR_ID,
+       EMPLOYEE_ID FROM LOCATIONS;
+ 
